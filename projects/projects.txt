@@ -1,0 +1,6 @@
+./fmazzoni/bootcamp18/Active.ipynb
+./amacleodd/bootcamp/Drug_Abuse_in_the_United_States.ipynb
+./edwindely/BootCamp/ProjectPartI.ipynb
+./sikacodes/bootcamp/Natality_2007_2016.ipynb
+./degradification/bootcamp/Project.ipynb
+./gyagenda/Python-Boot-Camp-/bootcamp_project.ipynb
