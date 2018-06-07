@@ -3,8 +3,4 @@
 Center for Astrophysics
 Monday, June 4th
 
-Workshops 
-
- * Introduction to Python
- * Data Wrangling
-
+This is a sample repository for the version control workshop.
