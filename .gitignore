@@ -1,4 +1,4 @@
-projects/
 .ipynb_checkpoints/
+projects/**/
 *.csv
 *.png
